@@ -2035,8 +2035,12 @@ input, select, textarea {
 					-ms-transition-delay: 0.95s;
 					transition-delay: 0.95s;
 				}
-
 		}
+		#main .thumb > h2.isabel {			
+			font-weight: 700;
+			font-size: 2rem;
+		}
+		
 
 /* Footer */
 
