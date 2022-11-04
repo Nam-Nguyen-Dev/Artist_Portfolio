@@ -2,6 +2,8 @@
 
 Website that displays an artist's artwork.
 
+<img src="https://namnguyendev.netlify.app/images/Artist%20Portfolio.png" alt="Screenshot of website displaying artwork">
+
 
 ## How It's Made:
 
